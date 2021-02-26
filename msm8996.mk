@@ -327,7 +327,7 @@ PRODUCT_PACKAGES += \
 # Nubia Parts
 PRODUCT_PACKAGES += \
     NubiaParts 
-    
+
 # OMX
 PRODUCT_PACKAGES += \
     libc2dcolorconvert \

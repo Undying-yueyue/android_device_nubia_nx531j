@@ -15,22 +15,22 @@
 -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">Nubia Setting</string>
-    <string name="advanced_settings">Nubia Setting</string>
-    <string name="advanced_settings_summary">Make Z11 Great again</string>
+    <string name="app_name">Nubia Parts</string>
+    <string name="advanced_settings">Nubia Parts</string>
+    <string name="advanced_settings_summary">Only for Z11</string>
 
     <string name="display_title">Display</string>
-    <string name="device_doze_title">Ambient Display</string>
+    <string name="device_doze_title">Ambient Display(Unavailable)</string>
     
     <!-- Overclock -->
     <string name="oc_title">Overclock</string>
     <string name="oc_hw_buttons_title">Enable Overclocking</string>
-    <string name="oc_hw_buttons_summary">Use This When Gaming :)</string>
+    <string name="oc_hw_buttons_summary">Increase cpufreq to 2.3Ghz</string>
     
     <!-- Camera -->
     <string name="camera_title">Camera</string>
     <string name="camera_reset_title">Camera Reset</string>
-    <string name="camera_reset_summary">This resets the camera server if your camera blackscreens</string>
+    <string name="camera_reset_summary">Use it if your cam does not work</string>
     <string name="camera_reset_hint">restarting camera server...</string>
     <string name="camera_reset_launcher_name">CamReset</string>
     
@@ -66,8 +66,8 @@
 
     <!-- Button brightness -->
     <string name="btn_title">Buttons</string>
-    <string name="btn_led_title">Led brightness</string>
-    <string name="btn_led_summary">Adjust the led brightness of buttons</string>
+    <string name="btn_led_title">Nubia Circle brightness</string>
+    <string name="btn_led_summary">Adjust the led brightness of Nubia Circle</string>
 
     <!-- usb fastcharge -->
     <string name="usb_fastcharge_title">USB Fastcharge</string>
@@ -76,8 +76,8 @@
 
     <!-- dirac -->
     <string name="sound_title">Sound</string>
-    <string name="xiaomi_dirac_title">Dirac Sound Enhancer</string>
-    <string name="xiaomi_dirac_summary">Optimize audio quality</string>
+    <string name="xiaomi_dirac_title">Dirac Sound Enhancer(Unavailable)</string>
+    <string name="xiaomi_dirac_summary">Unavailable on Nubia Z11</string>
 
     <!-- seekbar -->
     <string name="seekbar_no_default_value">No default value set</string>
@@ -86,5 +86,5 @@
     
     <!-- about section -->
     <string name="about_title">About</string>
-    <string name="about">Brought to you by Lightvortex and DazzWorld</string>
+    <string name="about">Brought to you by Lightvortex and DazzWorld and Undying</string>
 </resources>

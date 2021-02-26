@@ -195,4 +195,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
     
 # Maintainer
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.havoc.maintainer=LightVortex
+    ro.exthm.maintainer=Undying
